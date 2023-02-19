@@ -1,13 +1,5 @@
 #include <stdio.h>
 
-int prod_even(){
-
-}
-
-int sum_odd(){
-    
-}
-
 int main(){
     int mcnt = 0, fcnt = 0;
     float masc = 0, fem = 0, temp;
