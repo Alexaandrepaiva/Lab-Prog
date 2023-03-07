@@ -44,7 +44,7 @@ main() {
         v[i] = rand();
     }
 
-    printf("Numeros aleatórios gerados: ");
+    printf("Numeros aleatorios gerados: ");
     exibir(v, n);
 
     bolha(v, &v[n-1]);
